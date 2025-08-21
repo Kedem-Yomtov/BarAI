@@ -1,0 +1,19 @@
+# Maven / Java build folders
+target/
+bin/
+*.class
+
+# Logs
+*.log
+
+# OS / IDE files
+.idea/
+*.iml
+*.DS_Store
+
+# Executables
+*.exe
+
+# Config / sensitive info
+config.properties
+.env
