@@ -1,0 +1,17 @@
+## Bar Performance Overview
+
+Your bar shows moderate sales activity with consistent but limited volume across all categories. **Key strengths** include strong profit margins (61-75% on cocktails, 62-67% on beer) and a diverse menu offering. **Main weaknesses** are extremely low sales volumes (averaging only 2-3 items per transaction), inconsistent product naming in sales data versus menu, and underutilization of promotional events. The July 2nd Happy Hour appears to have had minimal impact on cocktail sales, and the July 4th Holiday Party didn't generate expected volume spikes. Overall, the bar appears to be underperforming with significant untapped potential.
+
+## Actionable Insights
+
+**1. Fix Critical Data & Inventory Issues**
+Immediately reconcile your sales system with your menu - you're recording sales for "Red Wine," "White Wine," and "Mojito" which don't exist on your menu. This suggests either menu items are missing from your system or staff are using incorrect product names. Implement a standardized POS system that only allows selection of actual menu items. This will enable accurate inventory tracking and prevent revenue leakage.
+
+**2. Redesign Event Strategy for Revenue Impact**
+Your current events aren't driving sales effectively. The 50% Happy Hour discount on July 2nd showed no increase in cocktail volume, suggesting poor promotion or timing. Restructure events to drive specific behaviors:
+- Change Happy Hour to 4-6 PM (earlier than current customer arrival times of 6:45 PM+)
+- For Sports Screenings, create beer bucket deals (5 beers for price of 4) to increase per-transaction volume
+- Ladies Night should feature specific cocktails at fixed prices rather than "free until 9 PM" which likely causes losses
+
+**3. Implement Food & Beverage Pairing Promotions**
+You have food items with excellent 75-80% margins but zero recorded food sales. Create mandatory pairing suggestions: every cocktail order should prompt a food upsell, especially high-margin items like Nachos or Fries. Train staff to suggest specific pairings (IPA + Chicken Wings, Wine + Cheese Platter). This could immediately increase average transaction value from the current ~$25-30 to $40-50."}
